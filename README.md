@@ -1,16 +1,16 @@
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*ndZvwzx3tlkjfW50.jpg"/> </p>
 <h1 align="center">Hi 👋, I'm Yamisec</h1>
-<h3 align="center"> Red Teamer | Offensive Security Researcher | Bug Hunter </h3>
+<h3 align="center"> Aspiring Offensive Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextgen-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="nextgen-hacker" /> </p>
 
-- 🔭 Working on **Red Team Operations, Offensive Security Research, and Security Assessments**
+- 🔭 Working on **Web Security | Bugbounty | Pentesting**
 
 - 🔭 Bug Hunter at  **HackerOne | BugCrowd**
 
-- 🌱 Currently preparing for **OSCP+, OSEP, OSWE, OSED**
+- 🌱 Currently preparing for **OSCE3**
 
-- 💬 Ask me about **Bugbounty | Penetesting | Active Directory | Evasion Techniques | Adversary Simulation | Windows Internals | C2 Infrastructure**
+- 💬 Ask me about **Bugbounty | Penetesting | Web Security**
 
 - 📫 How to reach me **Linkedin**
 
